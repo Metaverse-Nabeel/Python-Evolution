@@ -12,5 +12,5 @@
 # name : str = "Nabeel Ahmed"
 # print(name)
 
-name : str = 700
+name : str = "700"
 print(name)
